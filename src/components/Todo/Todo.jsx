@@ -19,4 +19,4 @@ function Todo({todo}) {
    )
 }
 
-export default Todo
+export default Todoy
